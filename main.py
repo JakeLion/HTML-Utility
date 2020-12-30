@@ -1,4 +1,4 @@
-#import the neccresarry stuff
+#import the necesarry stuff
 import tkinter
 from tkinter import*
 from tkinter import Tk, Frame, Menu, messagebox, filedialog, PhotoImage, Label, Button, Entry
