@@ -1,0 +1,14 @@
+Credits:
+These are all the people who have contributed to this software program
+
+FORMAT:
+Name:
+Website/social links:
+Contact information(preferably email):
+Country of origin(optional):
+
+---CREDITS---
+Jake Lion
+https://jakesystems.us/
+jake.systems.us@gmail.com
+USA
