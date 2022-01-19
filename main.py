@@ -1,27 +1,17 @@
-#import the necessarry stuff
 import tkinter
 from tkinter import*
 from tkinter import Tk, Frame, Menu, messagebox, filedialog, PhotoImage, Label, Button, Entry
 import datetime
 
+version = "1.0.5"
+
 
 #define and basic window details
 root = Tk()
-root.title('HTML Utility')
+root.title(f'HTML Utility - {version}')
 root.resizable(False, False)
 
-
-
 #sets the window icon. Error logging section doesnt work at the moment.
-try:
-    i1 = PhotoImage(file = 'icon.png')
-    root.iconphoto(True, i1)
-except FileNotFoundError:
-    now = datetime.now()
-    currentt = now.strftime('%H:%M %p')
-    with open('errors.log', 'a+') as logger:
-        logger.write(f'[{current_date}][{currentt}]:fileNotFoundError:python failed to find icon image (icon.png) for window:cause:user may have deleted file or application was not installed properly:fix:try reinstalling program if issue persists\n')
-        logger.close()
 
 
 #defines all text entries and their labels, aswell as positions them.
@@ -85,7 +75,7 @@ def export():
 
 
 
-exp = Button(root, text='Export', command=export)
+exp = Button(root, text='Export', width="10",command=export)
 exp.grid(row=35, column=0)
 
 #Save this, its a note for future features
