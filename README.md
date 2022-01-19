@@ -12,7 +12,7 @@ If you are new to contributing to open source projects, please refrain from maki
 Note that patches that seek to solve issues posted in the [issues](https://github.com/JakeLion/HTML-Utility/issues) section will be given highest priority for review, and we encourage all of those interested in contributing to look for issues they can solve there before pushing there own changes.
 
 ### discord
-Please join the discord server [here](https://discord.gg/5ge82vhfpw) if you are interested in speeking directly with contributors. You can also email the original creator at [jake.systems.us@gmail.com](mailto:jake.systems.us@gmail.com).
+Please join the discord server [here *link discontinued*](none) if you are interested in speeking directly with contributors. You can also email the original creator at [jake.systems.us@gmail.com](mailto:jake.systems.us@gmail.com).
 
 ## Documentation
 Documentation is far from complete with this software, we encourage anyone adding patches to the software to ensure that the software documentation is also updated to match their changes.
