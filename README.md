@@ -7,7 +7,7 @@ This software is designed to create HTML documents and webpages for users who do
 This software application uses [PYTHON 3.8.2](https://www.python.org/downloads/release/python-382/) and the [Tkinter](https://wiki.python.org/moin/TkInter) GUI library. All contributions should conform to Python 3.8.2 and its respective Tkinter library.
 
 ## Contributing
-All contributions should conform with Python 3.8.2 and its respective tkinter library. To contribute, simply create a pull request that includes the changes you with to contribute. 
+All contributions should conform with Python 3.8.2 (or newer) and its respective tkinter library. To contribute, simply create a pull request that includes the changes you with to contribute. 
 If you are new to contributing to open source projects, please refrain from making large changes. 
 Note that patches that seek to solve issues posted in the [issues](https://github.com/JakeLion/HTML-Utility/issues) section will be given highest priority for review, and we encourage all of those interested in contributing to look for issues they can solve there before pushing there own changes.
 
