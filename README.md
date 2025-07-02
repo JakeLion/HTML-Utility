@@ -1,3 +1,6 @@
+# Deprecated
+This project is no longer supported, use at your own risk
+
 # HTML-Utility
 HTML Utility is designed to create basic HTML files. You can use this for web-page development, or to create an HTML document.
 
